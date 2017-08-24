@@ -1,2 +1,2 @@
-# human_genetics
-General purpose code for annotation of human genetic data
+# Annotation of clinical and genetic data 
+General purpose code for projects relevant to human genetics 

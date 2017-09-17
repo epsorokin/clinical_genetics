@@ -12,6 +12,7 @@ This is a utility for parsing the MEGA manifest provided by Illumina (https://ww
 
 ## `parse_vep_output`
 Script for selecting annotations of interest from a VEP VCF file and simplifying into a tab-delimited TXT file. 
+
 `Usage: parse_vep_output.py <VCF file> <annotation type>`
 
 ## `worldFreq`

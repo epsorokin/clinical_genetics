@@ -4,7 +4,7 @@ require(maps)
 require(viridis)
 
 # Read in data
-dat=read.table('data.carrierFreq.rs140950220.tsv',header=T,sep='\t')
+dat=read.table('example-data.tsv',header=T,sep='\t') # Example data for COL27A1 variant, rs140950220. 
 
 colordf=data.frame(matrix(ncol=3,nrow=3))
 names(colordf)=c("min","max","color")

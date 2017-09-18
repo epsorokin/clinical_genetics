@@ -1,4 +1,4 @@
-Annotation  
+Analysis of human genetic data  
 =======
 
 This repository contains python and R utilities for analysis and downstream visualization of genetic data: 

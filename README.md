@@ -10,6 +10,7 @@ This repository contains python and R utilities for analysis and downstream visu
 ## `parse_manifest`
 This is a utility for parsing the MEGA manifest provided by Illumina (https://www.illumina.com/science/consortia/human-consortia/multi-ethnic-genotyping-consortium.html). The MEGA platform enables high imputation accuracy for multi-ethnic cohorts and was developed by the PAGE Study (www.pagestudy.org). To read about trans and multi-ethnic GWAS using the MEGA platform, check out our preprint on biorxiv: (http://www.biorxiv.org/cgi/content/short/188094v1). 
 
+This is a general tool that can be used with other array platforms including `MEGA`, `MEGA-ex`, and `GSA`.
 ## `parse_vep_output`
 Script for selecting annotations of interest from a VEP VCF file and simplifying into a tab-delimited TXT file. 
 
